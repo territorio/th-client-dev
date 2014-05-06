@@ -1,0 +1,15 @@
+[submodule "ember.js"]
+	path = ember.js
+	url = git@github.com:territorio/ember.js.git
+[submodule "data"]
+	path = data
+	url = git@github.com:territorio/data.git
+[submodule "ember-jj-abrams-resolver"]
+	path = ember-jj-abrams-resolver
+	url = git@github.com:territorio/ember-jj-abrams-resolver.git
+[submodule "ember-qunit"]
+	path = ember-qunit
+	url = git@github.com:territorio/ember-qunit.git
+[submodule "th-client-core"]
+	path = th-client-core
+	url = git@github.com:territorio/th-client-core.git
